@@ -16,7 +16,7 @@ const App = () => (
       <div>
         <p>
           <span className='accent'>Accenture Next Gen Engineering</span>
-          <span>- Tech Test</span>
+          <span> - Tech Test</span>
         </p>
       </div>
     </footer>
