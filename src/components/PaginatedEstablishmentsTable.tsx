@@ -35,7 +35,6 @@ const PaginatedEstablishmentsTable = () => {
   }, [pageNum]);
 
   useEffect(() => {
-    console.log(pageNum);
     fetchData();
   }, [fetchData, pageNum]);
 
